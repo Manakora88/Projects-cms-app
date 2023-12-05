@@ -6,7 +6,10 @@ const Hero = () => {
         <div className="hero-title">
           <h1>React w Realu</h1>
           <p>
-            React pozwala na przyjemne tworzenie dynamicznych aplikacji internetowych lub mobilnych. Programowanie w React skupia się na komponentach, które są samodzielnie działającymi, wielokrotnie używanymi blokami kodu. Poniżej przedstawiam projekty stworzone z wykorzystaniem biblioteki React. 
+            React pozwala na przyjemne tworzenie dynamicznych aplikacji internetowych lub mobilnych. Programowanie w React skupia się na komponentach, które są samodzielnie działającymi, wielokrotnie używanymi blokami kodu. 
+          </p>
+          <p>
+            Poniżej przedstawiam projekty stworzone z wykorzystaniem biblioteki React.
           </p>
         </div>
         <div className="img-container">
