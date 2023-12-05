@@ -2,7 +2,7 @@
 
  - Vite.js (npm install, npm run dev)
 - Contentful (https://www.contentful.com,  - npm install contentful )
-- ENV
+- ENV Variables
 
 ## Link
 
